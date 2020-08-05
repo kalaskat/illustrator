@@ -1,5 +1,7 @@
 # Co je Illustrator a k čemu je nám dobrý?
 
+![34](34.png)
+
 ## Začínáme
 
 Nejprve si vytvoříme nový soubor - plátno - o velikosti 1920 x 1080 px.
