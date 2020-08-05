@@ -98,6 +98,47 @@ Nyní vybereme celý květináč (nástroj VÝBĚR) a klikneme pravým tlačítk
 
 ![23](23.png)
 
+Pokuste se nyní vytvořit sami druhý typ květináče.
+
+![24](24.png)
+
+Jako další si vytvoříme květiny. Trochu se posuneme po naší pracovní ploše a vytvoříme si dva kruhy (nástroj elipsa).
+
+![25](25.png)
+
+Abychom měli pravidelný kruh, držíme na klávesnici SHIFT. Díky dvěma kruhům si vytvoříme lísteček.
+
+![26](26.png)
+
+Opět ořežeme zbytečné části a změníme barvu.
+
+![27](27.png)
+
+Stejným způsobem jako u květináče si vytvoříme stín u lístečku. Nezapomeňte prvky seskupit!!
+
+![28](28.png)
+
+Když přesuneme lístek ke květináči, můžeme si všimnout, že jej překrývá. 
+
+![29](29.png)
+
+To opravíme, když klikneme na pravé tlačítko myši a zvolíme toto.
+
+![30](30.png)
+
+Přidáme a otočíme si lístky, aby vypadaly jako květina.
+
+![31](31.png)
+
+Přidáme si lístky i do dalšího květináče.
+
+![32](32.png)
+
+Pokuste se vytvořit si i jinou květinu.
+
+![33](33.png)
+
+
 
 
 
